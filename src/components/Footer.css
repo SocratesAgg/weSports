@@ -1,0 +1,20 @@
+.footer {
+  background-color: #333; /* Dark background */
+  color: #fe7201; /* White text */
+  text-align: center; /* Center content */
+  padding: 2px 1; /* Padding around content */
+  height: 50px;
+  position: fixed; /* Sticks the footer to the bottom */
+  bottom: 0;
+  width: 100%; /* Full width of the viewport */
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow for a lifted look */
+}
+
+.footer-content {
+  max-width: 1200px; /* Limit content width */
+  margin: 0 auto; /* Center align the content */
+}
+
+.footer-title {
+  font-size: 24px; /* Larger title font */
+}

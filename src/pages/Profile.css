@@ -1,0 +1,27 @@
+/* src/pages/Profile.css */
+.profile-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profile-card {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+  

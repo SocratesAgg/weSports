@@ -1,0 +1,44 @@
+/* src/pages/Login.css */
+.login-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  .login-btn {
+    padding: 10px 20px;
+    margin: 10px 0;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+    color: #db4437;
+  }
+  
+  .google-btn {
+    background-color: #db4437;
+    color: white;
+  }
+  
+  .email-btn {
+    background-color: #4285f4;
+    color: white;
+  }
+  
+  .or {
+    margin: 10px 0;
+    font-weight: bold;
+  }
+  
+  .email-login input {
+    padding: 10px;
+    width: 80%;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
