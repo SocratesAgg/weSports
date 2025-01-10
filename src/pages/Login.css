@@ -18,20 +18,10 @@
     width: 80%;
     color: #db4437;
   }
-  
-  .google-btn {
-    background-color: #db4437;
-    color: white;
-  }
-  
+    
   .email-btn {
     background-color: #4285f4;
     color: white;
-  }
-  
-  .or {
-    margin: 10px 0;
-    font-weight: bold;
   }
   
   .email-login input {
